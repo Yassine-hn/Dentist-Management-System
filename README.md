@@ -12,12 +12,12 @@ and role-based access for Managers, Doctors and Assistants.
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Clinic_Pulse-06B6D4?style=for-the-badge&logo=vercel)](https://YOUR_DEMO_URL.vercel.app)
-[![API Health](https://img.shields.io/badge/API_Status-Live-22C55E?style=for-the-badge)](https://YOUR_API_URL.onrender.com/health)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Clinic_Pulse-06B6D4?style=for-the-badge&logo=vercel)](https://dentist-management-system-psi.vercel.app)
+[![API Health](https://img.shields.io/badge/API_Status-Live-22C55E?style=for-the-badge)](https://dentist-management-system-1.onrender.com/health)
 
 <br />
 
-**[👉 Try the Live Demo](https://YOUR_DEMO_URL.vercel.app)** &nbsp;|&nbsp; Quick demo credentials: `manager` / `password123`
+**[👉 Try the Live Demo](https://dentist-management-system-psi.vercel.app)** &nbsp;|&nbsp; Quick demo credentials: `manager` / `password123`
 
 <br />
 
