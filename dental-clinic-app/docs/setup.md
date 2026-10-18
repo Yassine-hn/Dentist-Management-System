@@ -189,8 +189,10 @@ others.
 - Port conflicts: change `PORT` in `backend/.env` or stop the process using that port.
 - Missing entrypoint (script points to `src/server.ts` but file not found): inspect `backend/src/` to find the actual startup file (look for `startServer()` or `app.listen`). Use `npx ts-node-dev` pointing to that file.
 
-## Suggested next improvements
+## Free Cloud Deployment (Neon + Render + Vercel)
 
-- Add an `.env.example` file for `backend` with safe placeholders.
-- Add a top-level `Makefile` or `package.json` workspace scripts to run both backend and frontend with one command.
+- **Database:** Hosted on [Neon.tech](https://neon.tech) (PostgreSQL serverless).
+- **Backend API:** Hosted on [Render.com](https://render.com) using [`render.yaml`](../../render.yaml).
+- **Frontend SPA:** Hosted on [Vercel](https://vercel.com) using [`vercel.json`](../frontend/vercel.json).
+- **Environment Template:** See [`backend/.env.example`](../backend/.env.example) for configuration details.
 
